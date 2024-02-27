@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+p{
+  color: yellow;
+}
+
+p a{
+  color: yellow;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 48px;
+}
